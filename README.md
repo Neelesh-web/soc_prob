@@ -24,22 +24,26 @@
 
 ---
 
-### Week 3: Graphs & Greedy Algorithms
-- Learned Graph representations (Adjacency List/Matrix).
-- Implemented core traversal algorithms: **BFS** and **DFS**.
-- Solved problems involving:
-  - Shortest paths in unweighted graphs
-  - Connected components
+### Week 3: Greedy Algorithms & Introduction to Dynamic Programming
+- Studied the **Greedy** approach with problems like:
+  - maximum sum & boring day(sorting + greedy )
+  - stone game (2 pointer + greedy)
+  - thorns and coins (prefix sum)
+- Understood where greedy strategies work and when they fail.
+- Started basic **Dynamic Programming (DP)** concepts:
+  - Memoization 
 
 ---
 
-### Week 4: Dynamic Programming & Range Queries
-- Understood key DP concepts: memoization, tabulation, state transitions.
-- Solved classic DP problems like:
-  - Fibonacci variations
-  - 0/1 Knapsack
-  - Subset Sum
-    
+###  Week 4: Binary Search & Its Applications
+- learnt **Binary Search** patterns:
+  - Classic search on sorted arrays
+  - Lower and Upper Bounds
+  - **Binary Search on Answer**
+- solved variety of problems:
+  - brightness begins(binary search on answer)
+  - sushi for two(greedy + binary search)
+  - lets watch football    
 ---
 
 ## Checkpoints So Far

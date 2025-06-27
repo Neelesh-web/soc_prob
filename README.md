@@ -46,10 +46,4 @@
   - lets watch football    
 ---
 
-## Checkpoints So Far
--  Arrays, Sorting & Basic STL Proficiency  
--  Binary Search & Divide and Conquer Patterns  
--  Greedy Techniques  
--  Dynamic Programming Basics & Range Query Introduction  
-
 

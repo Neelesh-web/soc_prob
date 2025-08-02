@@ -1,5 +1,5 @@
 
-# WEEK 1-4 Competitive programming(Project ID:139) Schedule 
+# WEEK 1-6 Competitive programming(Project ID:139) Schedule 
 
 ---
 

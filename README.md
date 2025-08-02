@@ -51,6 +51,8 @@
 -	Solved problems using 1D and 2D DP state representations.
 -	Tackled moderately challenging problems involving advanced DP techniques and flow algorithms.
 
+---
+
 ### Week 6: Graphs , BFS and DFS
 - Revisited graph algorithms with a focus on weighted graphs.
 - Practiced integrated problems that combined concepts from trees, graphs, and advanced data structures.
